@@ -126,6 +126,7 @@ body{
 		padding-top: 19.920px;
 		padding-bottom: 19.920px;
 		background: #758694;
+		box-shadow: 0px 0px 30px 0px rgba(0,0,0,0.3) inset;
 	}
 
 	.explore .img {
